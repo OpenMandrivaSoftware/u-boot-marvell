@@ -151,6 +151,14 @@
 	status = "okay";
 };
 
+&cpm_utmi0 {
+	status = "okay";
+};
+
+&cpm_utmi1 {
+	status = "okay";
+};
+
 &cpm_comphy {
 	/*
 	 * CP0 Serdes Configuration:
